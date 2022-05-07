@@ -1,0 +1,14 @@
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+
+#resumeImg {
+max-width: 450px !important;
+}
+
+
+h2 {
+    font-family: 'Shadows Into Light Two', cursive;
+    text-decoration: underline;
+}

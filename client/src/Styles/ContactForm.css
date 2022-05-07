@@ -1,0 +1,30 @@
+#contact {
+margin-right: 80px;
+margin-left: 80px;
+justify-content: center !important;
+align-items: center;
+margin-top: 100px;
+background-color:#310a31 ;
+padding: 15px;
+border-radius: 25px;
+box-shadow: rgba(16, 71, 41, 0.712) 0px 22px 70px 4px;
+color: white;
+}
+
+#submitBtn {
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+    border: black;
+    justify-content: center !important;
+}
+
+#info {
+    text-align: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+}

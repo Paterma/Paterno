@@ -1,0 +1,67 @@
+.navbar{
+padding: 20px;
+}
+
+button {
+ border-radius: 50px;
+ background-color: transparent;
+ color: white;
+ margin-right: 50px;
+ margin-left: 50px;
+ width: 100px;
+ height: 50px;
+ margin-top: 5px;
+ font-family: 'Roboto', sans-serif;
+ font-size: small !important;
+} 
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    color: white;  
+}
+
+li {
+    color: black;
+    padding: 3px;
+    font-weight: bold !important;
+    align-items: center !important;
+}
+
+/* When you hover over a list item it changes background color and font */
+button:hover {
+    background-color: #ffffff;
+}
+Changing the link colors to stand out more
+nav a:active {
+    color: rgb(226, 5, 5);
+}
+/* Change the link colors once visited */
+button:visited {
+    color: rgb(180, 166, 202) !important;
+}
+
+
+#profile:hover {
+  transform: none;
+}
+
+
+h1 {
+  margin-top: 50px !important;
+  font-size: 80px !important;
+  text-shadow: 0 0 20px rgb(103, 103, 104), 0 0 20px #4e476e, 0 0 20px #583c7e, 0 0 30px #8971b6, 0 0 30px #a19fa0, 0 0 30px #a997c7, 0 0 40px #837991;
+  font-family: 'La Belle Aurore', cursive;
+   /* margin: 25px; */
+  padding: 25px;
+  text-align: center !important;
+  color: white;
+}
+  .header img {
+    margin: 0;
+    padding-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+

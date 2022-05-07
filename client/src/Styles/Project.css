@@ -1,0 +1,47 @@
+/* .container {
+    border: 1px black solid;
+    margin: 50px;
+    padding: 50px;
+  } */
+  h3 {
+    font-family: 'Shadows Into Light Two', cursive;
+    margin-top: 45px;
+    color: #c9cad9;
+  }
+
+  /* .nav-item {
+    color:#82ac70;
+    font-weight: bold;
+    font-family: 'Shadows Into Light Two', cursive;
+  } */
+
+.nav-item:acive {
+    color: black !important;
+}
+
+/* img:hover {
+  transform: scale(1.15);
+} */
+
+img {
+  box-shadow: rgba(113, 29, 182, 0.712) 0px 22px 70px 4px;
+  max-height: 600px;
+  max-width: 600px !important;
+}
+
+/* Carousel {
+ max-width: 300px !important;
+ max-height: 300px !important;
+} */
+
+#caption {
+  margin-top: 250px !important;
+}
+
+.legend {
+  font-size: 14px !important;
+}
+
+#projPhoto {
+  size: 800px !important;
+}
