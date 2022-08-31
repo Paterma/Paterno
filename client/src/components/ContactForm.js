@@ -19,7 +19,6 @@ function Contact() {
   
     return (
 <form id='contact'>
-<h6 id='info' >Phone: 719-330-6322</h6>
   <h6 id='info'>Email: mariapaterno7@gmail.com</h6>
 <div className="contact-form" >
 <label for="name">Name</label>
